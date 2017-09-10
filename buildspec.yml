@@ -8,5 +8,6 @@ phases:
 artifacts:
   files:
     index.html
+    cv.pdf
     styles/*
     images/*
