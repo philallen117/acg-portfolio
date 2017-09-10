@@ -1,5 +1,6 @@
 # acg-portfolio
-acg serverless short course
-using aws and react
-font awesome, google fonts
 
+ACG serverless short course, using:
+
+- AWS: S3, R53, CF, CodeBuild
+- Font awesome, Google fonts
